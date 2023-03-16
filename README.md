@@ -1,10 +1,10 @@
 <div id="header" align="center">
 
    <div id="badges">
-    <a href="https://www.linkedin.com/in/timothy-esposito/" target="_blank">
+    <a href="https://www.linkedin.com/in/timothy-esposito/" target="_blank" rel="noreferrer noopener">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://twitter.com/timoespo">
+    <a href="https://twitter.com/timoespo" target="_blank" rel="noreferrer noopener">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
