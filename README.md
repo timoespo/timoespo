@@ -51,12 +51,14 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats: 
+
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=timoespo&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timoespo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-  <div id="codewars"> 
-     <img src="https://www.codewars.com/users/timoespo/badges/large" alt="codewars" />
-   </div>
+<div id="codewars"> 
+  <img src="https://www.codewars.com/users/timoespo/badges/large" alt="codewars" />
+</div>
 
 
 
