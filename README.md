@@ -30,7 +30,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 ### 🛠️: Languages and Tools: 
-<div>
+<div align='center'>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -53,9 +53,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats: 
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=timoespo&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timoespo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=timoespo&theme=dark&background=000000)](https://git.io/streak-stats)\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timoespo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)\
+[![LeetCode user timoespo](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftimoespo&logo=leetcode&logoColor=yellow)](https://leetcode.com/timoespo/)
 <div id="codewars"> 
   <img src="https://www.codewars.com/users/timoespo/badges/large" alt="codewars" />
 </div>
