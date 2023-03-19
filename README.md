@@ -52,14 +52,26 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats: 
 
+<div align="center">
+   <img src="http://github-readme-streak-stats.herokuapp.com?user=timoespo&theme=dark&background=000000">
+   <br>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timoespo&layout=compact&theme=vision-friendly-dark">
+   <br>
+   <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftimoespo&logo=leetcode&logoColor=yellow">
+   <br>
+   <img src="https://www.codewars.com/users/timoespo/badges/large">
+   
+</div>
 
-
-
+<!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=timoespo&theme=dark&background=000000)](https://git.io/streak-stats)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timoespo&layout=compact&theme=vision-friendly-dark)](https://github.com/timoespo/github-readme-stats)\
 [![LeetCode user timoespo](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Ftimoespo&logo=leetcode&logoColor=yellow)](https://leetcode.com/timoespo/)
 <div id="codewars"> 
   <img src="https://www.codewars.com/users/timoespo/badges/large" alt="codewars" />
 </div>
+
+-->
+
 
 
